@@ -1,0 +1,2 @@
+var codename = "3233";
+console.log(codename);
